@@ -10,7 +10,7 @@ from datetime import datetime
 
 # تكوين الإعدادات من البيانات المقدمة
 API_ID = 26458325
-API_HASH = 'c00851db310f6e3cd729333ef312c219'
+API_HASH='c00851db310f6e3cd729333ef312c219'
 BOT_TOKEN = "7087784225:AAF-TUMXou11lHOr5VLRq37PgCEbOBqKH3U"
 CHANNEL_ID = "@mmmmmuyter"
 ADMIN_IDS = [5367866254]  # آيدي المسؤول
